@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "sass": "^1.42.1"
+    "sass": "^1.72.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
